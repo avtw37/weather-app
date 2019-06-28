@@ -1,4 +1,10 @@
+# About this project
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+A simple weather application using API
+
+<img width="1189" alt="weather" src="https://user-images.githubusercontent.com/43705850/60321452-ad36ae80-9931-11e9-9e7e-b3e93e58eeeb.png">
 
 ## Available Scripts
 
